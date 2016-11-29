@@ -1,0 +1,10 @@
+G:\Program 4\Program 4\bin\Release\Program 4.exe
+G:\Program 4\Program 4\bin\Release\Program 4.pdb
+G:\Program 4\Program 4\obj\x86\Release\ResolveAssemblyReference.cache
+G:\Program 4\Program 4\obj\x86\Release\Program 4.exe
+G:\Program 4\Program 4\obj\x86\Release\Program 4.pdb
+E:\Program 4\Program 4\obj\x86\Release\Program 4.exe
+E:\Program 4\Program 4\obj\x86\Release\ResolveAssemblyReference.cache
+E:\Program 4\Program 4\bin\Release\Program 4.exe
+E:\Program 4\Program 4\bin\Release\Program 4.pdb
+E:\Program 4\Program 4\obj\x86\Release\Program 4.pdb

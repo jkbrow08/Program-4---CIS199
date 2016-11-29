@@ -1,0 +1,5 @@
+G:\Program 4\Program 4\bin\Debug\Program 4.exe
+G:\Program 4\Program 4\bin\Debug\Program 4.pdb
+G:\Program 4\Program 4\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\Program 4\Program 4\obj\x86\Debug\Program 4.exe
+G:\Program 4\Program 4\obj\x86\Debug\Program 4.pdb
